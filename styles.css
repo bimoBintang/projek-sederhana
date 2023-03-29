@@ -1,0 +1,255 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    border: none;
+}
+
+.container-login-data
+{
+    width: 207.9vh;
+    height: 100vh;
+    background: rebeccapurple;
+}
+
+.wrapper-container-login-data
+{
+    width: 207vh;
+    height: 100vh;
+    background: aqua;
+}
+
+.Navbar-container-login-data
+{
+    width: 207.9vh;
+    height: 7rem;
+    background: purple;
+}
+
+.wrapper-Navbar-login-data
+{
+    position: absolute;
+    width: 206vh;
+    height: 6.6rem;
+    left: 5px;
+}
+
+.container-logo-home-header
+{
+    position: absolute;
+    width: 15rem;
+    height: 70px;
+    left: 25px;
+    top: 18px;
+
+}
+
+.container-logo-home-header img
+{
+    position: absolute;
+    width: 15rem;
+    height: 4.5rem;
+    
+}
+
+.container-search-feeds-data
+{
+    position: absolute;
+    width: 14rem;
+    height: 5rem;
+    left: 45rem;
+    top: 15px;
+}
+
+.logo-search-data
+{
+    position: absolute;
+    width: 33px;
+    min-width: 35px;
+    height: 37.6px;
+    left: 189px;
+    top: 28px;
+    z-index: 1;
+
+}
+
+.container-search-feeds
+{
+    position: absolute;
+    width: 14rem;
+    height: 35px;
+    bottom: 15px;
+    border-radius: 8px;
+    border: none;
+    font-size: 15px;
+}
+
+.logo-search-data img
+{
+    position: relative;
+    width: 28px;
+    height: 33px;
+    top: 2px;
+}
+
+.toggle-pagation-pages
+{
+    position: absolute;
+    width: 60px;
+    height: 3rem;
+    left: 80rem;
+    top: 34px;
+    border: none;
+
+}
+
+.pagation-horizontal-pages-feeds
+{
+    width: 35px;
+    height: 3px;
+    background: black;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.container-login-data-colum
+{
+    position: absolute;
+    width: 20rem;
+    height: 25rem;
+    background: blueviolet;
+    left: 33rem;
+    top: 15rem;
+    border-radius: 7px;
+}
+
+.wrapper-container-login-data-colum
+{
+    position: absolute;
+    width: 19.4rem;
+    height: 24.4rem;
+    background: rgb(151, 47, 99);
+    left: 5px;
+    top: 5px;
+    border-radius: 7px;
+}
+
+.text-Register-login-data
+{
+    position: absolute;
+    left: 110px;
+}
+
+.Register-login-data
+{
+    position: absolute;
+    width: 15rem;
+    height: 10rem;
+    top: 6rem;
+    left: 35px;
+}
+
+.Register-account-login-data
+{
+    position: absolute;
+    left: 13px;
+    
+}
+
+.Register-account--login-data
+{
+    position: absolute;
+    left: 13px;
+    top: 3rem;
+}
+
+.Register-account-login--data
+{
+    position: absolute;
+    left:13px;
+    top: 6rem;
+}
+
+.Register-account-login-data h2
+{
+    font-size: 20px;
+}
+
+.Register-account--login-data h2
+{
+    font-size: 20px;
+}
+
+.Register-account-login--data h2
+{
+    font-size: 20px;
+}
+
+.Register-account-login-data input
+{
+    font-size: 15px;
+}
+
+.Register-account-login--data input
+{
+    font-size: 15px;
+}
+
+.Register-account--login-data input
+{
+    font-size: 15px;
+}
+
+.btn-login-data
+{
+    position: absolute;
+    width: 80px;
+    height: 35px;
+    top: 18rem;
+    left: 39px;
+}
+
+.btn-Register-login
+{
+    width: 80px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+}
+
+.paragraf-btn-login
+{
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.switch-login-data
+{
+    position: absolute;
+    width: 10rem;
+    height: 35px;
+    top: 21rem;
+    left: 45px;
+}
+
+.switch-data-login-register
+{
+    position: absolute;
+    top: 5px;
+}
+
+.switch-data-login-link
+{
+    position: absolute;
+    left: 70px;
+    top: 3px;
+    color: rgb(48, 146, 122);
+}
